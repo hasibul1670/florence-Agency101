@@ -9,5 +9,3 @@ This is a landing page of a designing service.
 
 Technologies : HTML, CSS, Bootstrap
 
-* [Live Site](https://masfikalam.github.io/Florence-Agency/)
-* [Github](https://github.com/masfikalam/Florence-Agency)
